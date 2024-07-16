@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
 
-public class Solved_1157
+public class Solved_1260
 {
     public void Solve()
     {
