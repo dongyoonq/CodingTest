@@ -6,7 +6,7 @@ namespace CodingTest
     {
         static void Main(string[] args)
         {
-            var s = new Solved_1181();
+            Solved_1193 s = new Solved_1193();
             s.Solve();
         }
     }
