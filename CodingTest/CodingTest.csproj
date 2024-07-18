@@ -50,6 +50,7 @@
     <Compile Include="!000-2000\Solved_1003.cs" />
     <Compile Include="!000-2000\Solved_1004.cs" />
     <Compile Include="!000-2000\Solved_1008.cs" />
+    <Compile Include="!000-2000\Solved_1011.cs" />
     <Compile Include="!000-2000\Solved_1094.cs" />
     <Compile Include="!000-2000\Solved_1193.cs" />
     <Compile Include="!000-2000\Solved_1181.cs" />
