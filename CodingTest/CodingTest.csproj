@@ -54,6 +54,7 @@
     <Compile Include="!000-2000\Solved_1094.cs" />
     <Compile Include="!000-2000\Solved_1193.cs" />
     <Compile Include="!000-2000\Solved_1181.cs" />
+    <Compile Include="!000-2000\Solved_1251.cs" />
     <Compile Include="!000-2000\Solved_1932.cs" />
     <Compile Include="!000-2000\Solved_1546.cs" />
     <Compile Include="!000-2000\Solved_1541.cs" />
