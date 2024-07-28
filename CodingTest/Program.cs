@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace CodingTest
 {
@@ -6,7 +8,7 @@ namespace CodingTest
     {
         static void Main(string[] args)
         {
-            Solved_1251 s = new Solved_1251();
+            var s = new Solved_1268();
             s.Solve();
         }
     }
