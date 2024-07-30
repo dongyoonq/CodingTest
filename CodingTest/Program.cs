@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.Text;
 
 namespace CodingTest
 {
@@ -8,7 +7,7 @@ namespace CodingTest
     {
         static void Main(string[] args)
         {
-            var s = new Solved_1268();
+            var s = new Solved_11068();
             s.Solve();
         }
     }

@@ -67,6 +67,7 @@
     <Compile Include="!000-2000\Solved_1152.cs" />
     <Compile Include="!000-2000\Solved_1010.cs" />
     <Compile Include="!000-2000\Solved_1009.cs" />
+    <Compile Include="10000-\Solved_11068.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
