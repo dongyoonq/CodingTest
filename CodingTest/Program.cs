@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 
 namespace CodingTest
@@ -9,7 +10,7 @@ namespace CodingTest
     {
         static void Main(string[] args)
         {
-            var s = new Solved_1308();
+            var s = new Solved_1312();
             s.Solve();
         }
     }
