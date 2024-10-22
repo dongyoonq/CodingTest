@@ -50,6 +50,7 @@
     <Compile Include="!000-2000\Solved_1003.cs" />
     <Compile Include="!000-2000\Solved_1004.cs" />
     <Compile Include="!000-2000\Solved_1008.cs" />
+    <Compile Include="!000-2000\Solved_1015.cs" />
     <Compile Include="!000-2000\Solved_1011.cs" />
     <Compile Include="!000-2000\Solved_1094.cs" />
     <Compile Include="!000-2000\Solved_1193.cs" />
@@ -58,6 +59,7 @@
     <Compile Include="!000-2000\Solved_1268.cs" />
     <Compile Include="!000-2000\Solved_1308.cs" />
     <Compile Include="!000-2000\Solved_1312.cs" />
+    <Compile Include="!000-2000\Solved_1463.cs" />
     <Compile Include="!000-2000\Solved_1817.cs" />
     <Compile Include="!000-2000\Solved_1932.cs" />
     <Compile Include="!000-2000\Solved_1546.cs" />
